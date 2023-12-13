@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "me.infamous.access_gobblefin.mixin",
+  "plugin": "me.infamous.access_gobblefin.mixin.AccessModMixinPlugin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "${mod_id}.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ClientPlayerEntityMixin",
+    "ClientPlayNetHandlerMixin"
+  ],
+  "minVersion": "0.8"
+}

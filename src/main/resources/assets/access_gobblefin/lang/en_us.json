@@ -1,0 +1,11 @@
+{
+  "entity.access_gobblefin.gobblefin": "Gobblefin",
+  "item.access_gobblefin.gobblefin_spawn_egg": "Gobblefin Spawn Egg",
+
+  "key.access_gobblefin.gobblefin_boost": "Gobblefin Boost",
+  "key.access_gobblefin.gobblefin_vortex": "Gobblefin Vortex",
+
+  "death.attack.access_gobblefin.vortex": "%1$s blew up",
+  "death.attack.access_gobblefin.vortex.player": "%1$s was blown up by %2$s",
+  "death.attack.access_gobblefin.vortex.player.item": "%1$s was blown up by %2$s using %3$s"
+}
